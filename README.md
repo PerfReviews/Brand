@@ -1,2 +1,1 @@
-# assets
-PerfReviews assets
+![PerfReviews](./PerfReviews-optimized.svg)
